@@ -3,7 +3,7 @@
 The tea white paper is a [semantically versioned](https://semver.org),
 [Markdown](https://daringfireball.net/projects/markdown/) document.
 New releases are deployed to Gitbook.
-
+.gitbook/assets/Token Allocation-Updated.svg
 ## Contributing
 
 If you have general feedback, please open a [discussion](../../discussions) thread.
