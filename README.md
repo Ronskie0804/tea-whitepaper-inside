@@ -8,3 +8,4 @@ New releases are deployed to Gitbook.
 
 If you have general feedback, please open a [discussion](../../discussions) thread.
 [text](https://forum.tea.xyz/t/staking-reward-and-earn/11694) 
+https://forum.tea.xyz/t/congratulations-on-your-trust-level-promotion/12352
